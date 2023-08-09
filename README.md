@@ -1,5 +1,8 @@
-[![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/7728/silver/badge)](https://bestpractices.coreinfrastructure.org/projects/7728)
+<a href="https://bestpractices.coreinfrastructure.org/projects/7728"><img src="https://bestpractices.coreinfrastructure.org/projects/7728/silverbadge"></a>
+This data is available under the Creative Commons Attribution version 3.0 or later license (CC-BY-3.0+). All are free to share and adapt the data, but must give appropriate credit. Please credit Alexander Petree and the OpenSSF Best Practices badge contributors.
 
+Project badge entry owned by: Alexander Petree.
+Entry created on 2023-08-09 20:11:00 UTC, last updated on 2023-08-09 20:52:29 UTC. Last achieved passing badge on 2023-08-09 20:18:38 UTC.
 This project is restarted
 and supported
 after steps are taken to ensure reliability.
