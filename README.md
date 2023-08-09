@@ -1,6 +1,4 @@
-[![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/7728/badge)](https://bestpractices.coreinfrastructure.org/projects/7728)
-or by embedding this in your HTML:
-<a href="https://bestpractices.coreinfrastructure.org/projects/7728"><img src="https://bestpractices.coreinfrastructure.org/projects/7728/badge"></a>
+
 
 This project is restarted
 and supported
