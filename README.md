@@ -1,3 +1,9 @@
+[![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/7728/badge)](https://bestpractices.coreinfrastructure.org/projects/7728)
+
+<a href="https://bestpractices.coreinfrastructure.org/projects/7728"><img src="https://bestpractices.coreinfrastructure.org/projects/7728/badge"></a>
+
+
+
 This project is restarted
 and supported
 after steps are taken to ensure reliability.
@@ -136,7 +142,7 @@ to use your contribution
 For details
 email me <apetree1001@email.phoenix.edu>
 request one or simply put in a pull request or fork it
-When you submit
+When you submit}
 a pull request
 a CLA-bot will automatically determine whether you need to provide a CLA
 and decorate the
