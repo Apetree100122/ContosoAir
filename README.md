@@ -1,3 +1,5 @@
+https://bestpractices.coreinfrastructure.org/projects/7728/badge
+[![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/7728/badge)](https://bestpractices.coreinfrastructure.org/projects/7728)
 <a>
 </a>href="https://bestpractices.coreinfrastructure.org/projects/7728"><img src="https://bestpractices.coreinfrastructure.org/projects/7728/silverbadge></a>
 This data is available under the Creative Commons Attribution version 3.0 or later license (CC-BY-3.0+). All are free to share and adapt the data, but must give appropriate credit. Please credit Alexander Petree and the OpenSSF Best Practices badge contributors.
