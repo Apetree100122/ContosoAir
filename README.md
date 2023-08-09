@@ -1,11 +1,3 @@
-Project badge entry owned by: Alexander Petree.
-Entry created on 2023-08-09 20:11:00 UTC, last updated on 2023-08-09 20:43:41 UTC. Last achieved passing badge on 2023-08-09 20:18:38 UTC.
-
-
-[![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/7728/badge)](https://bestpractices.coreinfrastructure.org/projects/7728)
-or by embedding this in your HTML:
-<a href="https://bestpractices.coreinfrastructure.org/projects/7728"><img src="https://bestpractices.coreinfrastructure.org/projects/7728/badge"></a>
-
 
 
 This project is restarted
